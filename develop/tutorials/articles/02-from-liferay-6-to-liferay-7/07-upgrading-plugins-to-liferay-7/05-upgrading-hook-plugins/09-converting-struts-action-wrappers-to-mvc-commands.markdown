@@ -2,7 +2,7 @@
 
 Since Liferay Portal 6.1, developers could customize the Portal and Portlet
 Struts Actions using a Hook and `StrutsActionWrappers`. For example, the
-`liferay-hook.xml` file for a hook that overrode the login portlet's login
+`liferay-hook.xml` file for a hook that override the login portlet's login
 action had this entry:
 
     <struts-action>
